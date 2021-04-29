@@ -67,3 +67,4 @@ affinity: {}
 
 extraArgs:
   escalate:
+  abuse-memory:
